@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ClaudeEye -- an AI powered monitoring & automation platform<br>👯 I’m looking to collaborate on AI-powered tools & SaaS products<br>🤝 I’m looking for help with scaling products & growth strategies<br>🌱 I’m currently learning AI/ML, Agentic AI from MASAI School<br>💬 Ask me about Full-Stack Development, AI integration<br>
+🔭 I’m TADABOINA ARUN KUMAR <br>👯 I’m looking to collaborate on AI-powered tools & SaaS products<br>🤝 I’m looking for help with scaling products & growth strategies<br>🌱 I’m currently learning AI/ML, Agentic AI from MASAI School<br>💬 Ask me about Full-Stack Development, AI integration<br>
 
 
 ## 🌐 Socials:
